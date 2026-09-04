@@ -72,11 +72,9 @@ _also cursive_
 
 ---
 ### Task list
-- [x] lorem
-- [ ] ipsum
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
-
+- [ ] lorem ` - - [ ] lorem`
+- [x] ipsum ` to mark list as complieted add x in [] => [x]`
+- [ ] \(dolor) ` if you have () in it type \ before it`
 
 ---
 ### Link
@@ -92,8 +90,13 @@ Image
 ![alternative text](https://freepngimg.com/save/98795-meme-picture-dank-free-download-image/500x530)  
 ` ![alternative text](https://freepngimg.com/save/98795-meme-picture-dank-free-download-image/500x530) `
 
+---
+### People mentioning
+@yaroslav146 - owner of this repo
+` @nick-name`
 
+--- 
+### Superscripts 
+Lorem ipsum[^1].
 
-
-
-
+[^1]: dolor sit

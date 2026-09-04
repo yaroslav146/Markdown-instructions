@@ -24,6 +24,45 @@ Big block of text 1
 Big block of text 2
 Big block of text 3
 ```
+` - ``` (Enter) block (Enter) ``` `
+<br><br>
+
+```python
+print("Hello World")
+print("it is python code")
+```
+` - ```python (Enter) code block (Enter) ``` `
+
+```csharp
+Console.WriteLine("Hello World");
+Console.WriteLome("it is C# code");
+```
+` - ```csharp (Enter) code block (Enter) ``` `
+
+An overview of all supported programming languages is [here](https://docs.github.com/en/get-started/learning-about-github/github-language-support?utm_source=chatgpt.com).
+Or use this list: 
+- python
+- csharp
+- javascript
+- typescript
+- java
+- cpp
+- c
+- html
+- css
+- sql
+- json
+- bash
+- powershell
+- php
+- ruby
+- go
+- rust
+- kotlin
+- swift
+<br><br>
+
+
 
 **Bold**
 ` - **text**`
@@ -97,6 +136,29 @@ Image
 
 --- 
 ### Superscripts 
-Lorem ipsum[^1].
+Lorem ipsum[^1]. ` - text[^1]`
 
-[^1]: dolor sit
+[^1]: dolor sit ` - [^1]: text`
+
+
+---
+### Notifications
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+---
+### Comments
+`<!-- text -->`
+

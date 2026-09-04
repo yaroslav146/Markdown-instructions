@@ -13,7 +13,7 @@
 
 ---
 <br><br>
-### Regular work with text
+### Regular text formatting
 ---
 ` line - --- `
 
@@ -84,7 +84,7 @@ _also cursive_
 ` - <ins> text </ins>`
 
 ---
-### Funy point
+### Funny point
 > kind a point
 
 ` - > text`
@@ -112,7 +112,7 @@ _also cursive_
 ---
 ### Task list
 - [ ] lorem ` - - [ ] lorem`
-- [x] ipsum ` to mark list as complieted add x in [] => [x]`
+- [x] ipsum ` to mark list as completed add x in [] => [x]`
 - [ ] \(dolor) ` if you have () in it type \ before it`
 
 ---
@@ -130,7 +130,7 @@ Image
 ` ![alternative text](https://freepngimg.com/save/98795-meme-picture-dank-free-download-image/500x530) `
 
 ---
-### People mentioning
+### Mentioning people
 @yaroslav146 - owner of this repo
 ` @nick-name`
 

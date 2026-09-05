@@ -1,7 +1,5 @@
 # Markdown Instructions
 
-A simple **Markdown reference and cheat sheet** based on the official GitHub documentation.
-
 > [!WARNING]
 > **This repository is not an official GitHub project.**  
 > It is a personal summary of selected Markdown features from the official GitHub documentation.

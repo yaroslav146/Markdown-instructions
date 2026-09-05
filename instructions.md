@@ -131,8 +131,8 @@ Image
 
 ---
 ### Mentioning people
-@yaroslav146 - owner of this repo
-` @nick-name`
+[@yaroslav146](https://github.com/yaroslav146). - owner of this repo
+` [@nick-name](https://github.com/nick-name).`
 
 --- 
 ### Superscripts 

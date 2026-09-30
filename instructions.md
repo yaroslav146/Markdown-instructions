@@ -146,17 +146,42 @@ Lorem ipsum[^1]. ` - text[^1]`
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
+```
+ - > [!NOTE]
+ - > text
+```
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
+
+```
+ - > [!TIP]
+ - > text
+```
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
+```
+ - > [!IMPORTANT]
+ - > text
+```
+
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
+```
+ - > [!WARNING]
+ - > text
+```
+
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+```
+ - > [!CAUTION]
+ - > text
+```
 
 ---
 ### Comments

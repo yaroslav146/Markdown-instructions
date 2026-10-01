@@ -87,7 +87,7 @@ _also cursive_
 ### Funny point
 > kind a point
 
-` - > text`
+`> text`
 
 
 
@@ -111,7 +111,7 @@ _also cursive_
 
 ---
 ### Task list
-- [ ] lorem ` - - [ ] lorem`
+- [ ] lorem ` - [ ] lorem`
 - [x] ipsum ` to mark list as completed add x in [] => [x]`
 - [ ] \(dolor) ` if you have () in it type \ before it`
 
@@ -136,9 +136,9 @@ Image
 
 --- 
 ### Superscripts 
-Lorem ipsum[^1]. ` - text[^1]`
+Lorem ipsum[^1]. ` text[^1]`
 
-[^1]: dolor sit ` - [^1]: text`
+[^1]: dolor sit ` [^1]: text`
 
 
 ---
@@ -147,40 +147,40 @@ Lorem ipsum[^1]. ` - text[^1]`
 > Useful information that users should know, even when skimming content.
 
 ```
- - > [!NOTE]
- - > text
+ > [!NOTE]
+ > text
 ```
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
 ```
- - > [!TIP]
- - > text
+ > [!TIP]
+ > text
 ```
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
 ```
- - > [!IMPORTANT]
- - > text
+ > [!IMPORTANT]
+ > text
 ```
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
 ```
- - > [!WARNING]
- - > text
+ > [!WARNING]
+ > text
 ```
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
 ```
- - > [!CAUTION]
- - > text
+ > [!CAUTION]
+ > text
 ```
 
 ---
